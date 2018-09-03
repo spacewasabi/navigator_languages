@@ -1,0 +1,23 @@
+{
+  "name": "navigator_languages",
+  "version": "1.0.0",
+  "description": "Because I need them for a project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SugoiNelson/navigator_languages.git"
+  },
+  "author": "Nelson C.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SugoiNelson/navigator_languages/issues"
+  },
+  "homepage": "https://github.com/SugoiNelson/navigator_languages#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http-server": "^0.11.1"
+  }
+}
