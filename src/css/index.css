@@ -1,0 +1,31 @@
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 20px;
+  font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-transform: lowercase;
+  width: 150px;
+}
+ 
+li {
+  font: 200 14px/1.5 Helvetica, Verdana, sans-serif;
+  border-bottom: 1px solid #ccc;
+}
+
+li ul li {
+  margin-left: 25px;
+  font-size: 10px;
+}
+
+li:last-child {
+  border: none;
+}
